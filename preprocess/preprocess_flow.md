@@ -1,0 +1,10 @@
+1. read_document
+2. generate_sample
+3. get_amr_data
+4. get_amr_dict
+5. get_amr_triple
+6. get_align_data
+7. split_data
+8. build_graph
+9. split_topic_cv
+10. build_graph_cv
