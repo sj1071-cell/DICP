@@ -41,8 +41,6 @@ python get_amr_data.py
 
 Prepare the data that the model used.
 
-Dataset types: ESC, CTB.
-
 ```
 /preprocess/prepare_data.sh
 ```
@@ -52,7 +50,7 @@ Dataset types: ESC, CTB.
 Run the model.
 
 ```
-/src/run_ctb.sh
+/src/run.sh
 ```
 
 When the program is finished, look at the log to get the final results.
